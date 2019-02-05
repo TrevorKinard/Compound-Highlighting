@@ -18,15 +18,12 @@
     <ClCompile Include="Source.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
+    <ClCompile Include="Encasing Cluster.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
-    <ClInclude Include="Cluster.h">
-      <Filter>Header Files</Filter>
-    </ClInclude>
-    <ClInclude Include="EdgeDetect.h">
-      <Filter>Header Files</Filter>
-    </ClInclude>
-    <ClInclude Include="Fill.h">
+    <ClInclude Include="Encasing Cluster.h">
       <Filter>Header Files</Filter>
     </ClInclude>
   </ItemGroup>
